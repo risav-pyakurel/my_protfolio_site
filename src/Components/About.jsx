@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "src/images/abtme.jpg";
+import image from "../images/abtme.jpg";
 
 const imageAltText = "A guy Hiking in Mountain Top";
 
